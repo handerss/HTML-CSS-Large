@@ -1,0 +1,23 @@
+body {
+	background-color: orange;
+	font-size: 18px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.fillout {
+	border: 2px solid #a1a1a1;
+	box-shadow: inset 0 0 5px #a1a1a1;
+	border-radius: 10px;
+	margin: 10% auto;
+	
+}
+
+.fillout {
+	width: 500px;
+	height: 253px;
+	border: 2px solid #a1a1a1;
+	box-shadow: inset 0 0 5px #a1a1a1;
+	border-radius: 10px;
+	margin: 10% auto;
+
+}
